@@ -1,0 +1,35 @@
+[[redirects]]
+from = "/historia"
+to = "/history"
+status = 200
+force = false
+[[redirects]]
+from = "/presentes"
+to = "/giftlist"
+status = 200
+force = false
+[[redirects]]
+from = "/local"
+to = "/place"
+status = 200
+force = false
+[[redirects]]
+from = "/about"
+to = "/about"
+status = 200
+force = false
+[[redirects]]
+from = "/projects"
+to = "/projects"
+status = 200
+force = false
+[[redirects]]
+from = "/blog"
+to = "/blog"
+status = 200
+force = false
+[[redirects]]
+from = "/contact"
+to = "/contact"
+status = 200
+force = false
