@@ -11,13 +11,13 @@ export const Container = styled.div`
   z-index: -5;
   justify-content: center;
   align-items: center;
-  background-image: url('https://res.cloudinary.com/djz3dt7lc/image/upload/c_scale,q_75,w_1920/v1591740463/Profile/background2.jpg'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+  background-image: url('https://res.cloudinary.com/djz3dt7lc/image/upload/c_scale,w_1920/v1591740463/Profile/background2.jpg'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 
   @media (max-width: 576px) {
-    background-image: url('https://res.cloudinary.com/djz3dt7lc/image/upload/c_scale,q_75,w_700/v1591740463/Profile/background2.jpg'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+    background-image: url('https://res.cloudinary.com/djz3dt7lc/image/upload/c_scale,w_700/v1591740463/Profile/background2.jpg'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
   }
 
   h1 {
