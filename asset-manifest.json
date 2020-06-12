@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/profile_2020/static/js/main.dfb8c101.chunk.js",
+    "main.js.map": "/profile_2020/static/js/main.dfb8c101.chunk.js.map",
+    "runtime-main.js": "/profile_2020/static/js/runtime-main.c45f508c.js",
+    "runtime-main.js.map": "/profile_2020/static/js/runtime-main.c45f508c.js.map",
+    "static/css/2.eb43dee1.chunk.css": "/profile_2020/static/css/2.eb43dee1.chunk.css",
+    "static/js/2.e8640460.chunk.js": "/profile_2020/static/js/2.e8640460.chunk.js",
+    "static/js/2.e8640460.chunk.js.map": "/profile_2020/static/js/2.e8640460.chunk.js.map",
+    "index.html": "/profile_2020/index.html",
+    "precache-manifest.49beda46147c929ef8b7a919e645c502.js": "/profile_2020/precache-manifest.49beda46147c929ef8b7a919e645c502.js",
+    "service-worker.js": "/profile_2020/service-worker.js",
+    "static/css/2.eb43dee1.chunk.css.map": "/profile_2020/static/css/2.eb43dee1.chunk.css.map",
+    "static/js/2.e8640460.chunk.js.LICENSE.txt": "/profile_2020/static/js/2.e8640460.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c45f508c.js",
+    "static/css/2.eb43dee1.chunk.css",
+    "static/js/2.e8640460.chunk.js",
+    "static/js/main.dfb8c101.chunk.js"
+  ]
+}
