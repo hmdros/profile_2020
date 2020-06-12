@@ -15,9 +15,9 @@ const Menu = ({ open, setOpen }) => {
       <Link to="/projects" onClick={() => setOpen(!open)}>
         <h4>Projetos</h4>
       </Link>
-      <Link to="/blog" onClick={() => setOpen(!open)}>
+      {/*<Link to="/blog" onClick={() => setOpen(!open)}>
         <h4>Blog</h4>
-      </Link>
+      </Link>*/}
       <Link to="/contact" onClick={() => setOpen(!open)}>
         <h4>Contato</h4>
       </Link>

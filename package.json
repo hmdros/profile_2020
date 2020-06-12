@@ -2,7 +2,6 @@
   "name": "Henrique_Profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hmdros.github.io/profile_2020/",
   "dependencies": {
     "@babel/runtime": "^7.8.7",
     "@testing-library/jest-dom": "^4.2.4",

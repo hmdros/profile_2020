@@ -7,7 +7,7 @@ export const Container = styled.div`
 export const Header = styled.div`
   margin-top: 100px;
   margin-bottom: 30px;
-  font-family: 'Parisienne';
+  font-family: 'Roboto';
   color: #004760;
   font-size: 2rem;
   text-align: center;
@@ -16,7 +16,7 @@ export const Header = styled.div`
 export const ProjectGrid = styled.div`
   text-align: center;
 
-  img {
+  i {
     width: 300px;
     height: 300px;
     object-fit: contain;
