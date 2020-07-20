@@ -2,7 +2,7 @@
   "name": "Henrique_Profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hmdros.github.io/profile_2020/",
+  "homepage": "https://hmdros.github.io/",
   "dependencies": {
     "@babel/runtime": "^7.8.7",
     "@testing-library/jest-dom": "^4.2.4",
@@ -13,7 +13,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-icons": "^3.9.0",
-    "react-router-dom": "^5.1.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.0",
     "styled-components": "^4.4.1"
   },
